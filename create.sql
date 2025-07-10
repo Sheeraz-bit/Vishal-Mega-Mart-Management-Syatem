@@ -9,7 +9,7 @@ create table shop(
 create table customer(
 	cus_id serial primary key,
 	cus_name varchar(50) not null,
-	phone varchar(10),
+	phone varchar(15),
 	cos_time timestamp default current_timestamp
 );
 create table orders(
