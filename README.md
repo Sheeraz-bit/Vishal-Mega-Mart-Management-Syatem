@@ -1,6 +1,6 @@
 # Vishal-Mega-Mart-Management-Syatem
 
-###this chart below is created using AI couse I don't know how to edit github readme file
+### this chart below is created using AI couse I don't know how to edit github readme file
 
 ### ✅ 10 Product Categories with Unique Codes //this chart below is created using AI couse I don't know how to edit github readme file
 
