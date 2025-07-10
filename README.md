@@ -1,6 +1,6 @@
 # Vishal-Mega-Mart-Management-Syatem
 
-### ✅ 10 Product Categories with Unique Codes
+### ✅ 10 Product Categories with Unique Codes //AI
 
 | Category Name           | Code Prefix | Example Product ID |
 |-------------------------|-------------|---------------------|
