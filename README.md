@@ -3,7 +3,7 @@
 A console-based Java application to manage grocery store operations such as adding products, managing customer orders, tracking stock, and viewing reports in real time with PostgreSQL database support.
 
 ---
-### ✅ 10 Product Categories with Unique Codes //this chart below is created using AI couse I don't know how to edit github readme file
+### ✅ 10 Product Categories with Unique Codes (IMP Guide)
 
 | Category Name           | Code Prefix | Example Product ID |
 |-------------------------|-------------|---------------------|
