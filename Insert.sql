@@ -1,3 +1,5 @@
+-- Created using AI tool couse I'm not gonna write that much lines of query(optional query)
+
 -- Beverages
 INSERT INTO shop (pro_id, pro_name, category, price, quantity_in_stock, stock_time) VALUES
 ('BEV-001', 'Coca-Cola 1L Bottle', 'Beverages', 45.00, 100, CURRENT_TIMESTAMP),
