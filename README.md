@@ -63,7 +63,7 @@ A console-based Java application to manage grocery store operations such as addi
 
 ---
 
-## Usage of AI in the project
+## Usage of AI in the project (Imp Note)
 
 - Creating main structure of project
 - Finding errors in Print_Details class(In sorting part).
