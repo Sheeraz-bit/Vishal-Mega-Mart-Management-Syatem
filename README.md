@@ -83,7 +83,7 @@ A console-based Java application to manage grocery store operations such as addi
 - Phone: 9823735901
 - Email: akashbuttepwad4@gmail.com
 
-### Programer:
+### Programer: (Group Leader)
 
 - Name: Abdul Nabi Sheeraz
 - Phone: 9022009241
