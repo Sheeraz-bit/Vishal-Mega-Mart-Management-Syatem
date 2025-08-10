@@ -2,6 +2,8 @@
 
 A console-based Java application to manage grocery store operations such as adding products, managing customer orders, tracking stock, and viewing reports in real time with PostgreSQL database support.
 
+<a href="https://www.buymeacoffee.com/SK_Sheeraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ---
 ### ✅ 10 Product Categories with Unique Codes (IMP Guide)
 
